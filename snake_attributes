@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+#include <stdlib.h>
+
+
+void print() {
+	std::cout << "Miaow";
+	}
+
+int main(){
+	print();
+	return 0;
+}
